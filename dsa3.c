@@ -1,3 +1,4 @@
+// Name - Vivek Kumar Roll No - 11500323100
 #include <stdio.h>
 int lsearch(int * arr ,int n ,int key){
 
