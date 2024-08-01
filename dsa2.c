@@ -1,3 +1,4 @@
+// Name - Vivek Kumar Roll No - 11500323100
 #include <stdio.h>
 int binary(int low, int high, int key,int * arr){
 		if(low>high)return -1;
